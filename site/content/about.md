@@ -5,4 +5,6 @@ title = "about"
 
 +++
 
-## This is where our page Markdown content lives.
+## Aaron Moser
+
+Aaron Moser is an American Engineering student.
